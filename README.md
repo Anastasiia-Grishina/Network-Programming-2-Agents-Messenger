@@ -20,7 +20,7 @@ Communication between remote platforms using Java agents with simple messenger G
 1. The agents are able to recognize each other when run on the same instance (platform) and communicate.
 2. The agents are able to communicate being run from different platforms and informed about public IP addresses of another platform
 
-![](Part 2.JPG)
+![](Part-2.JPG)
 
 ## Acknowledgements
 PERCCOM Family
