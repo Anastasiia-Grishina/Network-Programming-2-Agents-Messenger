@@ -13,7 +13,7 @@ Communication between remote platforms using Java agents with simple messenger G
 - to demonstrate inter-platform communication between agents using two Amazon Web Services (AWS) instances 
 
 ## Tools
-- Java Programming Language
+- Java Programming Language, Java Agent Development Framework (JADE)
 - AWS Management Console
 
 ## Results
